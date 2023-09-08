@@ -16,17 +16,15 @@
 
 .course_button
 {
-    
-    background-image: linear-gradient(to right,#4b251c,#7c483c);
-    
     backdrop-filter: blur(20px);
-    box-shadow: 0 0 5px #000000;
-    border: none;
+    background-color: #000000;
+    box-shadow: 0 0 5px salmon;
+    border: 2px solid salmon;
     padding: 5px 10px;
     margin: 10px 50px;
-    
+    color:salmon;
     border-radius: 6px;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .course_button:hover
