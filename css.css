@@ -16,8 +16,8 @@
 
 .course_button
 {
-    backdrop-filter: blur(20px);
-    background-color: #000000;
+    background: transparent;
+    backdrop-filter: blur(5px);
     box-shadow: 0 0 5px salmon;
     border: 2px solid salmon;
     padding: 5px 10px;
